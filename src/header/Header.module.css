@@ -11,7 +11,7 @@
     border: 1px solid;
     width: 80%;
     height: 80px;
-    margin: 0 190px 0 190px;
+    margin: 0 auto;
     display: flex;
     justify-content: flex-end;
     align-items: center;
