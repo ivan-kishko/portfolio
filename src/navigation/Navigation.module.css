@@ -1,5 +1,4 @@
 .nav {
-    box-sizing: border-box;
     border: 1px solid red;
     width: 300px;
     display: flex;

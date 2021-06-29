@@ -3,6 +3,10 @@
     min-height: 100vh;
 }
 
+/*.mainContainer {*/
+/*    box-sizing: border-box;*/
+/*}*/
+
 .greeting {
     width: 300px;
     background-color: firebrick;
