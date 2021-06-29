@@ -1,0 +1,22 @@
+.projectsBlock {
+    background-color: saddlebrown;
+    min-height: 100vh;
+}
+
+.projectsContainer {
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.projects {
+    box-sizing: border-box;
+    padding-bottom: 5px;
+    border: 1px solid yellow;
+    background-color: lightblue;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}

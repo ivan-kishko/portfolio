@@ -1,0 +1,17 @@
+.header {
+    background-color: darkorange;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.headerContainer {
+    box-sizing: border-box;
+    width: 80%;
+    height: 80px;
+    margin: 0 190px 0 190px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}

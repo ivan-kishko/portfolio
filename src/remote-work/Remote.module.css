@@ -1,0 +1,22 @@
+.remoteBlock {
+    background-color: darkseagreen;
+    min-height: 20vh;
+
+}
+
+.remoteContainer {
+    min-height: 20vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding-bottom: 5px;
+    text-align: center;
+}
+
+.hire {
+    background-color: deepskyblue;
+    height: 70px;
+    width: 200px;
+    line-height: 70px;
+}
+
